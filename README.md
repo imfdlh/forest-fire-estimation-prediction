@@ -1,1 +1,1 @@
-# forest-fire-estimation-prediction
+# Forest Fire Estimation Project
